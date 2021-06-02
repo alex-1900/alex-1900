@@ -1,4 +1,14 @@
-### I think I need hibernation 💬
+```
+🐻: Why are you killing me?
+
+                                I want your fur :👷
+🐻: I have a win-win solution
+                                          Waht? :👷
+
+🐻->eat(👷)
+🐻: You see, now you get my fur and
+     I fill my stomach, this is win-win
+```
 
 <!--
 **alex-1900/alex-1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
