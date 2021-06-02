@@ -7,7 +7,7 @@
 
 🐻->eat(👷)
 🐻: You see, now you get my fur and
-     I fill my stomach, this is win-win
+     I fill my stomach, this is win-win. burp~
 ```
 
 <!--
