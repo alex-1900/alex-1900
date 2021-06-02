@@ -1,13 +1,13 @@
 ```
-🐻: Why are you killing me?
+🦁: Why are you killing me?
 
-                                I want your fur :👷
-🐻: I have a win-win solution
-                                          Waht? :👷
+                                I want your fur :🧔
+🦁: I have a win-win solution
+                                          Waht? :🧔
 
-🐻->eat(👷)
+🦁->eat(🧔)
 
-🐻: You see, now you get my fur and
+🦁: You see, now you get my fur and
      I fill my stomach, this is win-win. burp~
 ```
 
